@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AR Application
+  m_EditorClassIdentifier: 
+  m_GroupName: AR Application
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 11353278db7a42f4fb9e5a7fa33c4643
+  m_SerializeEntries:
+  - m_GUID: 91c124e2fb820e841b16d3acf0075cdd
+    m_Address: Assets/Prefabs/ROBOT2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce54b65cc9fe9e14ba896665fe022648
+    m_Address: Assets/Prefabs/ROBOT1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 305447d545ad20c49a4f098059186cef, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3b7f8e128005d1d419f7f4227d317422, type: 2}
+    - {fileID: 11400000, guid: 6d6d71fc31e5ad04b93132693c24bb1e, type: 2}
